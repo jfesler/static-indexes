@@ -1,0 +1,24 @@
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="https://kit.fontawesome.com/198c1100f0.js" crossorigin="anonymous"></script>
+
+<style>
+body {
+  background-color: white;
+  margin: 10px;
+}
+
+  <!-- custom styling for all icons -->
+  i.fas,
+  i.fab {
+    border: 1px solid red;
+  }
+
+  <!-- custom styling for specific icons -->
+  .fa-fish {
+    color: salmon;
+  }
+
+  .fa-frog {
+    color: green;
+  }
+</style>
