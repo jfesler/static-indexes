@@ -7,6 +7,12 @@ body {
   margin: 10px;
 }
 
+table, th, td {
+ padding-left: 15px;
+}
+
+
+
   <!-- custom styling for all icons -->
   i.fas,
   i.fab {
